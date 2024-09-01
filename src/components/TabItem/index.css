@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.button {
+  background-color: transparent;
+  color: #7b8794;
+  margin: 10px;
+  border: 0px;
+  font-size: 20px;
+}
+.active-tab-className {
+  border-bottom: 2px solid #2563eb;
+}

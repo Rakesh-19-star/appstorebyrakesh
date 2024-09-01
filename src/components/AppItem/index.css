@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.card-con {
+  background-color: white;
+  padding: 10px;
+  text-align: center;
+  margin: 10px;
+  border-radius: 20px;
+}
+.app-img {
+  height: 100px;
+  width: 100px;
+}
